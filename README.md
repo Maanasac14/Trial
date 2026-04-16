@@ -1,4 +1,4 @@
 # Trial
 My first Git Repository
 <br>
-Author-MaanasaC
+Author-Maanasa C
